@@ -1,0 +1,33 @@
+body{
+ text-align: center;
+ background-origin: padding-box;
+ background-image: -moz-element();
+}
+h1{
+    text-align: center ;
+    color: rgb(146, 56, 182);
+}
+#d1,#d2,#d3{
+    text-align: center;
+}
+p{
+   text-align: center; 
+}
+.c1{
+    background-color: rgb(201, 180, 204);
+    height: 150px;
+    width: 200px;
+    /* animation: alternate; */
+    text-align: center;
+    list-style-position: outside;
+    display: inline-table;
+}
+table,th,td{
+    border: 1px solid ;
+    font-size: larger;
+    background-color: rgb(154, 114, 167);
+
+}
+#i4{
+    background-color: rgb(221, 218, 223);
+}
